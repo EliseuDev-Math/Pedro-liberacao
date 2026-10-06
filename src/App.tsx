@@ -8,7 +8,7 @@ import Requisicao from './pages/Requisicao';
 import Autorizacoes from './pages/Autorizacoes';
 import AutorizacaoDetalhe from './pages/AutorizacaoDetalhe';
 
-function App() {
+function App()  {
   return (
     <BrowserRouter>
       <div className="flex min-h-screen flex-col bg-slate-50">
